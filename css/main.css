@@ -233,3 +233,19 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+fieldset{
+    
+    border: none;
+    text-align: center;
+    background: transparent;
+    background-color: #BDBDBD;
+   /* position: fixed;
+    top: 50%;*/
+    left: 50%;
+    margin-top: -180px;
+    margin-left: -227.5px;
+    padding: 0;
+    width: 450px;
+    height: 225px;
+}
